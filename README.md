@@ -18,7 +18,7 @@ A passionate Full Stack Developer from Bengaluru 🚀
 - **LinkedIn:** https://www.linkedin.com/in/zishan-ansari-2a1019215/
 - **GitHub:** https://github.com/azishanansari4587
 - **Portfolio:**
-- ** CV:** https://drive.google.com/file/d/1kdCiTggccVkN8vQ4WdWReSFLczP-zE9h/view
+- **CV:** https://drive.google.com/file/d/1kdCiTggccVkN8vQ4WdWReSFLczP-zE9h/view
 
 ---
 
@@ -35,9 +35,9 @@ A passionate Full Stack Developer from Bengaluru 🚀
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Expressjs](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Restful API](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -53,8 +53,8 @@ A passionate Full Stack Developer from Bengaluru 🚀
 ---
 
 ### 🚀 Featured Projects:
-- **[Project 1 Name](GitHub Repo Link)** - Brief description of the project
-- **[Project 2 Name](GitHub Repo Link)** - Brief description of the project
+- **[Nuzrat Carpet](GitHub Repo Link)** - Brief description of the project
+- **[Sumaiya Home](GitHub Repo Link)** - Brief description of the project
 
 ---
 

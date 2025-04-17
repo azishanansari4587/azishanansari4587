@@ -110,7 +110,10 @@
 ---
 
 ### 🚀 Featured Projects:
-- **[Nuzrat Carpet](GitHub Repo Link)** - Brief description of the project
+- **[Nuzrat Carpet](https://github.com/azishanansari4587/NuzratCarpet)**
+- Nuzrat Carpet is a clean, modern, and responsive product showcase website designed to display premium carpet collections and details beautifully. Built using Next.js and Tailwind CSS, the site provides a smooth user experience and fast performance, ideal for commercial product display and client interaction.
+  ![NuzratCarpet_Screenshot1](https://github.com/user-attachments/assets/755e03a4-d27d-4152-bca7-a0a5c404e654)
+
 - **[Sumaiya Home](GitHub Repo Link)** - Brief description of the project
 
 ---
